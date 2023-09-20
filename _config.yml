@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   exciting new challenges in software engineering and development.
 baseurl: "/github-pages-with-docker" # the subpath of your site, e.g. /blog
 url: "https://palbani.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: albanipaul
+github_username: palbani
 
 # Build settings
 markdown: kramdown
