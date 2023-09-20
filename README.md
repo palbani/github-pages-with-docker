@@ -172,7 +172,6 @@ linkedin_username: jekyll
 pinterest_username: jekyll
 youtube_username: jekyll
 googleplus_username: +jekyll
-rss: rss
 
 mastodon:
  - username: jekyll
